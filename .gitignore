@@ -1,0 +1,8 @@
+# Dependensi
+node_modules/
+package-lock.json
+
+# File environment
+.env
+.env.test
+.env.production
