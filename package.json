@@ -6,7 +6,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "nodemon": "nodemon advance.ts",
     "fetch": "nodemon fetch.ts",
-    "oop": "nodemon oop.ts"
+    "oop": "nodemon oop.ts",
+    "path": "nodemon path.ts",
+    "hash": "nodemon hash.ts",
+    "prom": "nodemon promise.ts",
+    "task": "nodemon latihan.ts"
   },
   "keywords": [],
   "author": "",
