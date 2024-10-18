@@ -10,7 +10,8 @@
     "path": "nodemon path.ts",
     "hash": "nodemon hash.ts",
     "prom": "nodemon promise.ts",
-    "task": "nodemon latihan.ts"
+    "task": "nodemon latihan.ts",
+    "function": "nodemon functionB.ts"
   },
   "keywords": [],
   "author": "",
